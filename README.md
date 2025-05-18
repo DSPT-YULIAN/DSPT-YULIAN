@@ -4,6 +4,8 @@
   </ul>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí
@@ -14,22 +16,35 @@
 Especialista en seguridad informatica, con experiencia en análisis y mitigación de riesgos cibernéticos, gestión de incidentes y fortalecimiento de infraestructuras tecnológicas. Destacado por la capacidad de utilizar herramientas avanzadas como SIEM (QRadar), EDR, NDR, Open XDR, Nessus y OpenVAS. Reconocido por un enfoque metódico y crítico hacia la resolución de problemas. Reconocido por su compromiso con la excelencia, superando objetivos personales y grupales, y colaborando eficazmente con equipos multidisciplinarios.
 </p>
 
+<h2>Formación Académica</h2>
 
+</br>
+
+✔ Especialización en Seguridad Informática.
+✔ Ingeniería en Sistemas.
+
+</br>
+
+<h2>Certificaciones</h2>
+
+</br>
+
+✔ Blue Team Junior Analyst (Security Blue Team).
+✔ Certified Ethical Hacking Practitioner (CEHPC).
+✔ Auditor Líder ISO/IEC 27001:2022.
+✔ Líder en Ciberseguridad (LCSPC).
+✔ CC – Certified in Cybersecurity (ISC2).
+✔ SOC Analyst Associate (Stellar Cyber).
+✔ IBM QRadar SIEM Foundation (IBM).
+✔ Cyber Threat Intelligence 101 
+✔ Fortinet Certified Associate (FCA) y Fundamentals (FCF).
+✔ Cyber Threat Intelligence 101 de arcX
+✔ SOC Level 1 & 2 (TryHackMe).
+  Ethical Hacker (Cisco).
+  Penetration Tester
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
