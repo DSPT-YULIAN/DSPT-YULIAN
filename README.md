@@ -20,8 +20,8 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 </br>
 
-✔ Especialización en Seguridad Informática.
-✔ Ingeniería en Sistemas.
+<p> ✔ Especialización en Seguridad Informática.</p>
+<p> ✔ Ingeniería en Sistemas.
 
 </br>
 
@@ -29,19 +29,19 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 </br>
 
-✔ Blue Team Junior Analyst (Security Blue Team).
-✔ Certified Ethical Hacking Practitioner (CEHPC).
-✔ Auditor Líder ISO/IEC 27001:2022.
-✔ Líder en Ciberseguridad (LCSPC).
-✔ CC – Certified in Cybersecurity (ISC2).
-✔ SOC Analyst Associate (Stellar Cyber).
-✔ IBM QRadar SIEM Foundation (IBM).
-✔ Cyber Threat Intelligence 101 
-✔ Fortinet Certified Associate (FCA) y Fundamentals (FCF).
-✔ Cyber Threat Intelligence 101 de arcX
-✔ SOC Level 1 & 2 (TryHackMe).
-  Ethical Hacker (Cisco).
-  Penetration Tester
+<p> ✔ Blue Team Junior Analyst (Security Blue Team).</p>
+<p> ✔ Certified Ethical Hacking Practitioner (CEHPC).</p>
+<p> ✔ Auditor Líder ISO/IEC 27001:2022.</p>
+<p> ✔ Líder en Ciberseguridad (LCSPC).</p>
+<p> ✔ CC – Certified in Cybersecurity (ISC2).</p>
+<p> ✔ SOC Analyst Associate (Stellar Cyber).</p>
+<p> ✔ IBM QRadar SIEM Foundation (IBM).</p>
+<p> ✔ Cyber Threat Intelligence 101. </p>
+<p> ✔ Fortinet Certified Associate (FCA) y Fundamentals (FCF).</p>
+<p> ✔ Cyber Threat Intelligence 101 de arcX</p>
+<p> ✔ SOC Level 1 & 2 (TryHackMe).</p>
+<p>   Ethical Hacker (Cisco).</p>
+<p>   Penetration Tester</p>
 
 <br>
 
