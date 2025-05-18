@@ -46,6 +46,19 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 <br>
 
 ### 🎖 &nbsp; Projects
+
+
+https://github.com/user-attachments/assets/7d8cb6ee-00d1-4948-b8b4-7b75c5114aef
+
+
+
+
+
+
+
+
+
+
 <!-- 🎖 &nbsp;My Badges 
 
 
