@@ -1,9 +1,19 @@
-## Hola, Soy Yulian Pabón 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola, Soy Yulian Pabón 👋</h1></summary>
+  </ul>
+</div>
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<p>
+Especialista en seguridad informatica, con experiencia en análisis y mitigación de riesgos cibernéticos, gestión de incidentes y fortalecimiento de infraestructuras tecnológicas. Destacado por la capacidad de utilizar herramientas avanzadas como SIEM (QRadar), EDR, NDR, Open XDR, Nessus y OpenVAS. Reconocido por un enfoque metódico y crítico hacia la resolución de problemas. Reconocido por su compromiso con la excelencia, superando objetivos personales y grupales, y colaborando eficazmente con equipos multidisciplinarios.
+</p>
+
 
 
 <br>
