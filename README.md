@@ -50,64 +50,91 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 
 <br>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="text-align: center;">
+  <table style="margin: auto;">
+    <tbody>
+      <tr valign="top">
+        <td width="25%" align="center">
+          <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗩𝘂𝗲</span><br><br><br>
+          <a href="https://vuejs.org/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+          </a>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="25%" align="center">
+          <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
+          <a href="https://webpack.js.org/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+          <a href="https://eslint.org/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗚𝗶𝘁</span><br><br><br>
+          <a href="https://git-scm.com/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+          <a href="https://code.visualstudio.com/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          </a>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="25%" align="center">
+          <span>𝗟𝗲𝘀𝘀</span><br><br><br>
+          <a href="http://lesscss.org/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+          <a href="https://sass-lang.com/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+          <a href="https://tailwindcss.com/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+          </a>
+        </td>
+        <td width="25%" align="center">
+          <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+          <a href="https://www.netlify.com/" target="_blank">
+            <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 
