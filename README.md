@@ -48,7 +48,8 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 ### 🎖 &nbsp; Projects
 
 <p>
-Cybersecurity Toolbox es una plataforma web integral diseñada para centralizar y organizar herramientas clave utilizadas en el mundo de la ciberseguridad. El objetivo principal es ofrecer una “caja de herramientas digital” constantemente actualizada, categorizada según las funciones de los equipos Red Team, Blue Team y Purple Team.
+<h1>1. Cybersecurity Toolbox</h1>
+Es una plataforma web integral diseñada para centralizar y organizar herramientas clave utilizadas en el mundo de la ciberseguridad. El objetivo principal es ofrecer una “caja de herramientas digital” constantemente actualizada, categorizada según las funciones de los equipos Red Team, Blue Team y Purple Team.
 </p>
 
 
@@ -56,11 +57,12 @@ https://github.com/user-attachments/assets/7d8cb6ee-00d1-4948-b8b4-7b75c5114aef
 
 
 
+<h1>3. manual practico ciberseguridad</h1>
 
 
+https://github.com/DSPT-YULIAN/Ciberseguridad/tree/main
 
-
-
+![Image](https://github.com/user-attachments/assets/32ce6142-c8e1-43d9-ab0d-d1d5c1004b5c)
 
 
 <!-- 🎖 &nbsp;My Badges 
@@ -203,4 +205,4 @@ https://github.com/user-attachments/assets/7d8cb6ee-00d1-4948-b8b4-7b75c5114aef
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/0hcnaiMHAJgIkvkEN3qFVi?si=cY_WbqpJRoeu6fJPsrIZEg&pi=OkMXeqlnQhCZW )
