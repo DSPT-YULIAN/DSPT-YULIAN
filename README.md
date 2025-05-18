@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/7d8cb6ee-00d1-4948-b8b4-7b75c5114aef
 
 
 
-<h1>3. manual practico ciberseguridad</h1>
+<h1>2. Manual practico ciberseguridad</h1>
 
 
 https://github.com/DSPT-YULIAN/Ciberseguridad/tree/main
