@@ -45,8 +45,8 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 <br>
 
-
-### 🎖 &nbsp;My Badges 
+### 🎖 &nbsp; Projects
+<!-- 🎖 &nbsp;My Badges 
 
 
 <br>
@@ -134,9 +134,7 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
     </tbody>
   </table>
 </div>
-
-
-
+-->
 
 
 <!--horizontal divider(gradiant)-->
