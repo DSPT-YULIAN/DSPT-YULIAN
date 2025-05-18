@@ -40,8 +40,8 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 <p> ✔ Fortinet Certified Associate (FCA) y Fundamentals (FCF).</p>
 <p> ✔ Cyber Threat Intelligence 101 de arcX</p>
 <p> ✔ SOC Level 1 & 2 (TryHackMe).</p>
-<p>   Ethical Hacker (Cisco).</p>
-<p>   Penetration Tester</p>
+<p> ✒️  Ethical Hacker (Cisco).</p>
+<p> ✒️  Penetration Tester</p>
 
 <br>
 
@@ -167,7 +167,7 @@ https://github.com/DSPT-YULIAN/Ciberseguridad/tree/main
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,arch,ubuntu,git,aws,anaconda,bash,powershell,discord,docker,postgres,redhat,sqlite,vim,github,html,java,nginx,,mysql,py,windows,vscode,vscodium,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,arch,ubuntu,git,aws,anaconda,bash,powershell,discord,docker,postgres,redhat,sqlite,vim,github,html,java,nginx,mysql,py,windows,vscode,vscodium,kubernetes&perline=14" />
   </a>
 </p>
 
