@@ -45,8 +45,6 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 <br>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎖 &nbsp;My Badges 
 
@@ -173,3 +171,10 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 </p>
 
 ------
+
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
