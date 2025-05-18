@@ -47,6 +47,10 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
 
 ### 🎖 &nbsp; Projects
 
+<p>
+Cybersecurity Toolbox es una plataforma web integral diseñada para centralizar y organizar herramientas clave utilizadas en el mundo de la ciberseguridad. El objetivo principal es ofrecer una “caja de herramientas digital” constantemente actualizada, categorizada según las funciones de los equipos Red Team, Blue Team y Purple Team.
+</p>
+
 
 https://github.com/user-attachments/assets/7d8cb6ee-00d1-4948-b8b4-7b75c5114aef
 
