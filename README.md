@@ -55,8 +55,8 @@ Especialista en seguridad informatica, con experiencia en análisis y mitigació
     <tbody>
       <tr valign="top">
         <td width="25%" align="center">
-          <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <span>Ethical Hacking</span><br><br><br>
+          <a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://www.credly.com/badges/7aca5a86-3b66-4249-a9c9-d1b8599eab10/public_url)" target="_blank">
             <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
           </a>
         </td>
